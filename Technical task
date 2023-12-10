@@ -1,0 +1,43 @@
+1 Introduction
+This document presents the technical specification for a student course project.
+The project’s objective is to create a C++ console application that reads a
+mathematical function from a file, expands it into a Taylor series, finds its
+roots, and generates a detailed solution in a PDF file using LaTeX.
+
+2 Project Requirements
+2.1 Functional Requirements
+• The application must read a mathematical function from a text file.
+• The program should expand the function into a Taylor series around a
+given point.
+• The application should find the roots of the Taylor series.
+• The solution process, including the Taylor series expansion and root finding, must be formatted and presented in a LaTeX-generated PDF file.
+
+2.2 Technical Requirements
+• The application must be developed in C++.
+• It should be operable via a command-line interface.
+• Integration with LaTeX for generating the PDF report is required.
+• The program must effectively handle common errors, such as file not found
+or incorrect function syntax.
+
+3 Development Environment
+• The project should be developed using an appropriate C++ Integrated
+Development Environment (IDE) or text editor.
+• Clear instructions for compiling and executing the application should be
+provided.
+• Usage of a version control system like Git is recommended for code management
+
+4 Documentation and Submission
+• The final submission should include the source code, a compiled version
+of the program, and a sample output PDF.
+• Comprehensive documentation should be provided, detailing the design,
+development process, and instructions for use.
+• The documentation should also be compiled into a PDF and included in
+the submission.
+
+
+5 Evaluation Criteria
+• Accuracy of the Taylor series expansion and root finding.
+• Code quality, including readability, structure, and adherence to coding
+standards.
+• Quality and completeness of the documentation.
+• Usability and reliability of the program.
