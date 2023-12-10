@@ -1,0 +1,1 @@
+# auto-solving-latex-pdf
